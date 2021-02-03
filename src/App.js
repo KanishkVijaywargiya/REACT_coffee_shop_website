@@ -29,6 +29,7 @@ function App() {
           rightBtnText='LEARN MORE'
           rightBtnLink=''
           twoButtons='true'
+          first
         />
 
         <Item
@@ -77,7 +78,6 @@ function App() {
           rightBtnText='LEARN MORE'
           rightBtnLink=''
           twoButtons='true'
-          first
         />
 
         <Item
